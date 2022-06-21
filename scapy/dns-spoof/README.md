@@ -7,3 +7,8 @@ To successfully run it, you need:
     ```
     python3 dns_spoof.py
     ```
+    
+    
+    Article Reference:-
+    
+   https://www.thepythoncode.com/article/make-dns-spoof-python
